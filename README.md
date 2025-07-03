@@ -33,27 +33,27 @@ A full-stack **book management system** built using **PHP**, **MySQL**, **HTML**
 
 ```bash
 📁 Book-Portal/
-├── 📁 Assets/               # Icons and social media images (e.g. facebook.png, instagram.png)
-├── 📁 Uploads/              # Uploaded book cover images
-├── 📄 About.php
-├── 📄 Add_Books.php
-├── 📄 Book_Details.php
-├── 📄 Browse.php
-├── 📄 Contact.php
-├── 📄 DB.php                # Database connection file
-├── 📄 Footer.php
-├── 📄 Generate_Key.php
-├── 📄 Index_B.php           # Home page
-├── 📄 Log_In.php
-├── 📄 Log_Out.php
-├── 📄 My_Books.php
-├── 📄 Navbar.php
-├── 📄 Process_Contact.php
-├── 📄 Register.php
-├── 📄 Script.js             # Custom JS logic
-├── 📄 Style_B.css
-├── 📄 Styles_Book.css
-├── 📄 Upload.php
-├── 📄 User_Dashboard.php
+├── 📁 assets/               # Icons and social media images (e.g. facebook.png, instagram.png)
+├── 📁 uploads/              # Uploaded book cover images
+├── 📄 about.php
+├── 📄 add_books.php
+├── 📄 book_details.php
+├── 📄 browse.php
+├── 📄 contact.php
+├── 📄 db.php                # Database connection file
+├── 📄 footer.php
+├── 📄 generatep.php
+├── 📄 indexb.php           # Home page
+├── 📄 login.php
+├── 📄 logout.php
+├── 📄 my_books.php
+├── 📄 navbar.php
+├── 📄 process_contact.php
+├── 📄 register.php
+├── 📄 script.js             # Custom JS logic
+├── 📄 styleb.css
+├── 📄 stylesbook.css
+├── 📄 upload.php
+├── 📄 user_dashboard.php
 └── 📁 sql/
     └── book_portal.sql     # Exported MySQL database (you can create this manually)
