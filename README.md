@@ -34,7 +34,8 @@ A full-stack **book management system** built using **PHP**, **MySQL**, **HTML**
 ```bash
 📁 Book-Portal/
 ├── 📁 assets/               # Icons and social media images (e.g. facebook.png, instagram.png)
-├── 📁 uploads/              # Uploaded book cover images
+├── 📁 uploads/          # Uploaded book cover images
+├── 📁 phpcodes/          #required frontend and php codes 
 ├── 📄 about.php
 ├── 📄 add_books.php
 ├── 📄 book_details.php
